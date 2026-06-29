@@ -15,8 +15,8 @@
     <copyright>Copyright 2026 The Signal. All rights reserved.</copyright>
     <managingEditor>editors@thesignal.example (The Signal Editorial Team)</managingEditor>
     <webMaster>webmaster@thesignal.example (The Signal Web Team)</webMaster>
-    <pubDate>Fri, 03 Jul 2026 09:00:00 +0000</pubDate>
-    <lastBuildDate>Fri, 03 Jul 2026 09:00:00 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 09:00:00 +0000</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2026 09:00:00 +0000</lastBuildDate>
     <category>Technology</category>
     <category>Culture</category>
     <category>Ideas</category>
@@ -34,6 +34,74 @@
     <atom:link href="https://ikcerog.github.io/RSS-Test/feed.xml" rel="self" type="application/rss+xml"/>
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
+
+    <item>
+      <title>Consectetur Adipiscing Elit Sed Do</title>
+      <link>https://ikcerog.github.io/RSS-Test/articles/lorem-ipsum-6.html</link>
+      <dc:creator><![CDATA[Nadia Okonkwo]]></dc:creator>
+      <pubDate>Sat, 04 Jul 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://ikcerog.github.io/RSS-Test/articles/lorem-ipsum-6.html</guid>
+      <category>Analysis</category>
+      <description><![CDATA[<p>Consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim.</p>]]></description>
+      <content:encoded><![CDATA[
+<p>Consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>Labore Et Dolore</h2>
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est qui dolorem ipsum quia dolor sit amet consectetur adipisci velit.</p>
+<div class="rocket-data-table-wrap" style="width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 1.25em 0;" role="region" aria-label="Adipiscing Elit Table">
+<table class="rocket-data-table" style="width: 100%; border-collapse: collapse; border-spacing: 0; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.35; color: #111; background: #fff;">
+<caption style="caption-side: top; text-align: left; font-weight: bold; margin: 0 0 .5em; color: #111;">Consectetur Adipiscing Elit Sed Do</caption>
+<thead>
+<tr>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Rank</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Territory</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Adipiscing Score</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Eiusmod Rate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">1</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Labore Basin</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">7.3</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">11.4%</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">2</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Dolore Marsh</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">5.1</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">8.6%</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">3</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Magna Inlet</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">9.7</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">14.2%</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">4</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Aliqua Strand</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">3.8</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">4.9%</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">5</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Enim Plateau</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">6.6</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">9.3%</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">6</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Tempor Shoals</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">2.4</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">3.1%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Magna Aliqua</h2>
+<p>Ut enim ad minima veniam quis nostrum exercitationem ullam corporis suscipit laboriosam nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.</p>
+      ]]></content:encoded>
+    </item>
 
     <item>
       <title>Duis Aute Irure Dolor In Reprehenderit</title>
@@ -320,7 +388,6 @@
       <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus euismod, erat vitae placerat faucibus.</p>]]></description>
       <content:encoded><![CDATA[
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus euismod, erat vitae placerat faucibus, turpis mauris suscipit augue, vitae luctus nibh velit sed lacus. Integer volutpat, augue vel convallis luctus, urna nibh facilisis ipsum, eget interdum arcu erat vitae nunc.</p>
-
 <p>Praesent malesuada, nibh vitae volutpat tincidunt, lorem augue gravida lacus, sed vulputate risus turpis vitae velit. Curabitur dictum, eros nec fermentum pretium, lorem massa malesuada sem, vitae ultrices est purus eget risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
       ]]></content:encoded>
     </item>
@@ -338,11 +405,8 @@
 <p>In repositories across GitHub, in Discord servers that never make the news, in research papers published without a PR firm attached, a different kind of AI development is taking place. It is slower, messier, and more distributed. It is also, in some ways, more interesting.</p>
 <h2>The Release That Changed the Conversation</h2>
 <p>When Meta released the weights of LLaMA in early 2023, the effect was immediate and irreversible. Within days, the model was running on laptops. Within weeks, researchers had fine-tuned it on specialized datasets — medical records, legal documents, codebases — that the major labs would never prioritize. Within months, a whole ecosystem had formed around it.</p>
-<p>That ecosystem did not produce GPT-4. It produced something different: hundreds of small, purposeful models, each solving a specific problem for a specific community.</p>
 <h2>Infrastructure That Belongs to Everyone</h2>
-<p>Beyond models, the open-source AI community has built infrastructure that is genuinely impressive. The Hugging Face Hub has become the repository of record for model weights, datasets, and evaluation suites. Frameworks like vLLM, llama.cpp, and Ollama have made it trivially easy to run large models on consumer hardware.</p>
-<h2>The Accountability Question</h2>
-<p>Critics of open-source AI raise a legitimate concern: releasing model weights eliminates the ability to control downstream use. Once the weights are public, there is no API to shut down, no terms of service to enforce, no kill switch.</p>
+<p>Beyond models, the open-source AI community has built infrastructure that is genuinely impressive. The Hugging Face Hub has become the repository of record for model weights, datasets, and evaluation suites.</p>
 <h2>What Comes Next</h2>
 <p>The open-source AI movement is at an inflection point. The models are getting genuinely competitive with proprietary alternatives. The tooling is mature enough that a small team can now build and deploy a capable AI system without relying on any of the major cloud providers.</p>
       ]]></content:encoded>
@@ -358,15 +422,10 @@
       <description><![CDATA[<p>The abundance of tools is real. So is the paralysis. A meditation on making things when everything can be automated.</p>]]></description>
       <content:encoded><![CDATA[
 <p>A friend of mine spent three months writing a short film. She had a script she was proud of, a small budget, and a cast of actors she trusted. What she did not have was the certainty, nagging and persistent, that a sufficiently clever prompt could have produced a similar draft in forty-five seconds.</p>
-<p>She finished the film. It is very good. But the experience had changed something for her — not in the work itself, but in the way the work felt while she was doing it.</p>
 <h2>The Old Bargain</h2>
 <p>There was an implicit bargain in the pre-automation era of creative work. You put in time. You developed taste through failure. You learned to distinguish your good ideas from your bad ones through the grueling process of executing both and living with the results.</p>
-<h2>The Paradox of Infinite Possibility</h2>
-<p>Constraint is generative. When you can only do a few things, you get very good at doing those things. A poet working in a strict form — a sonnet, a villanelle — is not limited by the form; the form is the engine.</p>
 <h2>What Cannot Be Automated</h2>
 <p>There is a category of creative work that AI cannot do, not for technical reasons but for conceptual ones. It cannot make work that is about the experience of making it. It cannot document a life from the inside.</p>
-<h2>Back to the Film</h2>
-<p>My friend's film screened last month at a small festival. Nobody asked whether she had used AI. The question did not occur to anyone, because the work was so clearly the product of a particular person's particular obsessions. The struggle was visible in the work. That visibility was not a flaw. It was, I think, the whole point.</p>
       ]]></content:encoded>
     </item>
 
@@ -382,10 +441,6 @@
 <p>There is a loading screen in a game I played as a child that I remember with a vividness I cannot explain. It was a simple animation — a spaceship moving across a star field, slowly, while a progress bar crept from left to right. It took maybe thirty seconds. I watched it every time, rapt.</p>
 <h2>The Economics of Instant</h2>
 <p>The elimination of latency was, for most of internet history, an unambiguous good. Waiting was waste. Users bounced. Conversion rates dropped. Every millisecond of load time had a measurable cost.</p>
-<h2>The Friction Designers</h2>
-<p>A small but growing community of designers has begun pushing back against the speed imperative by deliberately introducing what they call "considered friction." This is distinct from bad UX in that the friction is intentional, purposeful, and legible to the user.</p>
-<h2>The Historical Accident of Immediacy</h2>
-<p>It is worth remembering that the instant internet is historically unusual. For most of human information history, access to information required significant investment of time and effort.</p>
 <h2>The Case Against Nostalgia</h2>
 <p>The case for considered friction is not a case for returning to dial-up. It is a case for being deliberate about what we optimize for, and recognizing that speed is one value among several, not a terminal goal in itself.</p>
       ]]></content:encoded>
