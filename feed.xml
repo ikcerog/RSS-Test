@@ -15,8 +15,8 @@
     <copyright>Copyright 2026 The Signal. All rights reserved.</copyright>
     <managingEditor>editors@thesignal.example (The Signal Editorial Team)</managingEditor>
     <webMaster>webmaster@thesignal.example (The Signal Web Team)</webMaster>
-    <pubDate>Mon, 29 Jun 2026 09:00:00 +0000</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2026 09:00:00 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:00:00 +0000</lastBuildDate>
     <category>Technology</category>
     <category>Culture</category>
     <category>Ideas</category>
@@ -36,41 +36,83 @@
     <sy:updateFrequency>1</sy:updateFrequency>
 
     <item>
+      <title>Lorem Ipsum Dolor Sit Amet Consectetur</title>
+      <link>https://ikcerog.github.io/RSS-Test/articles/lorem-ipsum-2.html</link>
+      <dc:creator><![CDATA[Marcus Teller]]></dc:creator>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://ikcerog.github.io/RSS-Test/articles/lorem-ipsum-2.html</guid>
+      <category>Analysis</category>
+      <description><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>]]></description>
+      <content:encoded><![CDATA[
+<div class="rocket-data-table-wrap" style="width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 1.25em 0;" role="region" aria-label="Lorem Ipsum Table">
+<table class="rocket-data-table" style="width: 100%; border-collapse: collapse; border-spacing: 0; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.35; color: #111; background: #fff;">
+<caption style="caption-side: top; text-align: left; font-weight: bold; margin: 0 0 .5em; color: #111;">Lorem Ipsum Dolor Sit Amet Consectetur</caption>
+<thead>
+<tr>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Lorem</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Lorem Ipsum</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Lorem Ipsum Dolor Sit Amet</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Lorem Ipsum Dolor Sit Amet Consectetur</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Lorem Ipsum Dolor Sit Amet Consectetur Adipiscing</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Lorem Ipsum Dolor Sit</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Lorem Ipsum Dolor Amet</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">1</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Lorem City</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">4.2</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;A9X-7Q2</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">5.6%</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;QW-83ZX</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;LM9P-22</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">2</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Ipsum Heights</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">5.8</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;F4K-91MN</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">6.8%</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;RT6-PL4</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;VX-820QA</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">3</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Dolor Beach</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">6.4</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;N7Y-3D8K</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">8.1%</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;CB-17LM</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;P5Q-44ZT</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">4</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Sit Valley</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">8.9</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;H2W-6XR9</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">10.0%</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;ZT-09JK</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;D8F-71QP</td>
+</tr>
+</tbody>
+</table>
+</div>
+      ]]></content:encoded>
+    </item>
+
+    <item>
       <title>Lorem Ipsum Dolor Sit Amet</title>
       <link>https://ikcerog.github.io/RSS-Test/articles/lorem-ipsum.html</link>
       <dc:creator><![CDATA[Marcus Teller]]></dc:creator>
       <pubDate>Mon, 29 Jun 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://ikcerog.github.io/RSS-Test/articles/lorem-ipsum.html</guid>
-      <dc:date>2026-06-29T09:00:00Z</dc:date>
       <category>Analysis</category>
       <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus euismod, erat vitae placerat faucibus.</p>]]></description>
       <content:encoded><![CDATA[
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus euismod, erat vitae placerat faucibus, turpis mauris suscipit augue, vitae luctus nibh velit sed lacus. Integer volutpat, augue vel convallis luctus, urna nibh facilisis ipsum, eget interdum arcu erat vitae nunc.</p>
 
 <p>Praesent malesuada, nibh vitae volutpat tincidunt, lorem augue gravida lacus, sed vulputate risus turpis vitae velit. Curabitur dictum, eros nec fermentum pretium, lorem massa malesuada sem, vitae ultrices est purus eget risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-<table>
-  <caption>Lorem Ipsum Dolor Sit Amet Consectetur Adipiscing Elit</caption>
-  <thead>
-    <tr>
-      <th>Lorem</th>
-      <th>Lorem Ipsum</th>
-      <th>Lorem Ipsum Dolor Sit Amet</th>
-      <th>Lorem Ipsum Dolor Sit Amet Consectetur</th>
-      <th>Lorem Ipsum Dolor Sit Amet Consectetur Adipiscing</th>
-      <th>Lorem Ipsum Dolor Sit</th>
-      <th>Lorem Ipsum Dolor Amet</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>1</td><td>Lorem City</td><td>4.2</td><td>&#163;A9X-7Q2</td><td>5.6%</td><td>&#163;QW-83ZX</td><td>&#163;LM9P-22</td></tr>
-    <tr><td>2</td><td>Ipsum Heights</td><td>5.8</td><td>&#163;F4K-91MN</td><td>6.8%</td><td>&#163;RT6-PL4</td><td>&#163;VX-820QA</td></tr>
-    <tr><td>3</td><td>Dolor Beach</td><td>6.4</td><td>&#163;N7Y-3D8K</td><td>8.1%</td><td>&#163;CB-17LM</td><td>&#163;P5Q-44ZT</td></tr>
-    <tr><td>4</td><td>Sit Valley</td><td>8.9</td><td>&#163;H2W-6XR9</td><td>10.0%</td><td>&#163;ZT-09JK</td><td>&#163;D8F-71QP</td></tr>
-    <tr><td>5</td><td>Amet Grove</td><td>12.7</td><td>&#163;R8M-25NV</td><td>15.5%</td><td>&#163;YU-48BG</td><td>&#163;K3L-90WC</td></tr>
-    <tr><td>6</td><td>Consectetur</td><td>18.3</td><td>&#163;T5P-84HJ</td><td>20.0%</td><td>&#163;MN-62QR</td><td>&#163;X7C-15DL</td></tr>
-  </tbody>
-</table>
       ]]></content:encoded>
     </item>
 
@@ -80,49 +122,20 @@
       <dc:creator><![CDATA[Maya Osei]]></dc:creator>
       <pubDate>Thu, 25 Jun 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://ikcerog.github.io/RSS-Test/articles/open-source-ai.html</guid>
-      <dc:date>2026-06-25T09:00:00Z</dc:date>
       <category>Technology</category>
       <description><![CDATA[<p>While the headlines fixate on billion-dollar labs, a decentralized community is building tools that may matter more in the long run.</p>]]></description>
       <content:encoded><![CDATA[
 <p>Every week brings a new announcement from one of the major AI laboratories — a model that writes code better than most engineers, a system that passes bar exams, a multimodal architecture that can reason about images with uncanny precision. The press coverage is relentless. The funding rounds are staggering. And yet, quietly, something else is happening.</p>
-
 <p>In repositories across GitHub, in Discord servers that never make the news, in research papers published without a PR firm attached, a different kind of AI development is taking place. It is slower, messier, and more distributed. It is also, in some ways, more interesting.</p>
-
 <h2>The Release That Changed the Conversation</h2>
-
 <p>When Meta released the weights of LLaMA in early 2023, the effect was immediate and irreversible. Within days, the model was running on laptops. Within weeks, researchers had fine-tuned it on specialized datasets — medical records, legal documents, codebases — that the major labs would never prioritize. Within months, a whole ecosystem had formed around it.</p>
-
-<p>That ecosystem did not produce GPT-4. It produced something different: hundreds of small, purposeful models, each solving a specific problem for a specific community. A model trained to assist doctors in rural clinics where internet connectivity is unreliable. A model fine-tuned on parliamentary proceedings to help civic technologists. A model that runs on a Raspberry Pi and helps students in areas where cloud services are blocked.</p>
-
-<blockquote><p>"The biggest labs are optimizing for the benchmark. We are optimizing for the use case. Those are not the same thing."<br>— A contributor to the EleutherAI project</p></blockquote>
-
-<p>This distinction matters more than it might initially appear. Benchmarks measure generalist capability. Use cases demand specificity, trust, and context. A general-purpose model that scores 90% on a medical reasoning benchmark may still be useless — or dangerous — in a clinical setting if it cannot be audited, if its training data cannot be disclosed, or if it requires a cloud connection that a hospital's security policy prohibits.</p>
-
+<p>That ecosystem did not produce GPT-4. It produced something different: hundreds of small, purposeful models, each solving a specific problem for a specific community.</p>
 <h2>Infrastructure That Belongs to Everyone</h2>
-
-<p>Beyond models, the open-source AI community has built infrastructure that is genuinely impressive. The Hugging Face Hub has become the repository of record for model weights, datasets, and evaluation suites. Frameworks like vLLM, llama.cpp, and Ollama have made it trivially easy to run large models on consumer hardware. Tools like LangChain and LlamaIndex — whatever you think of their design choices — accelerated the experimentation that now underpins entire startup categories.</p>
-
-<p>None of this happened because a foundation wrote a grant. It happened because engineers and researchers found the existing tools inadequate and built better ones, then shared them. The incentive structure is familiar from the earlier history of open source: reputation, collaboration, and the genuine pleasure of solving hard problems in public.</p>
-
-<p>What is different now is the stakes. When Linux was being built in Linus Torvalds' bedroom, the worst that could happen was a bad operating system. The systems being built today can generate text that influences elections, automate hiring decisions, and accelerate drug discovery. The norms that open-source AI develops around safety, auditability, and responsible release will echo for decades.</p>
-
+<p>Beyond models, the open-source AI community has built infrastructure that is genuinely impressive. The Hugging Face Hub has become the repository of record for model weights, datasets, and evaluation suites. Frameworks like vLLM, llama.cpp, and Ollama have made it trivially easy to run large models on consumer hardware.</p>
 <h2>The Accountability Question</h2>
-
-<p>Critics of open-source AI raise a legitimate concern: releasing model weights eliminates the ability to control downstream use. Once the weights are public, there is no API to shut down, no terms of service to enforce, no kill switch. If a bad actor fine-tunes an open model to generate disinformation or assist in creating dangerous materials, the original developers have limited recourse.</p>
-
-<p>This is a real tension, and the community has not fully resolved it. What has emerged, tentatively, is a set of norms rather than rules: voluntary adoption of responsible release guidelines, model cards that document known limitations and misuse vectors, and an increasing emphasis on "open weights" models — where the weights are public but the training data and fine-tuning details may not be — as a middle path.</p>
-
-<p>It is not a clean solution. But it may be a more honest one than the alternative, which is to trust that a handful of private companies will make these decisions correctly on behalf of everyone. The history of technology does not give us strong reasons to assume that concentrated power produces better outcomes than distributed accountability.</p>
-
+<p>Critics of open-source AI raise a legitimate concern: releasing model weights eliminates the ability to control downstream use. Once the weights are public, there is no API to shut down, no terms of service to enforce, no kill switch.</p>
 <h2>What Comes Next</h2>
-
-<p>The open-source AI movement is at an inflection point. The models are getting genuinely competitive with proprietary alternatives. The tooling is mature enough that a small team can now build and deploy a capable AI system without relying on any of the major cloud providers. The community is large enough to sustain serious safety research alongside capability research.</p>
-
-<p>What it lacks, still, is a clear story about governance. The Apache Foundation and Linux Foundation spent decades developing models for sustaining open infrastructure. AI needs equivalent institutions — ones that can handle the specific challenges of model governance, dataset curation, and safety evaluation without becoming captured by the commercial interests that inevitably circle valuable technology.</p>
-
-<p>Building those institutions is harder than training a model. It requires negotiation, compromise, and patience. It requires people who are willing to work on the boring, essential work of governance rather than chasing the benchmark or the headline.</p>
-
-<p>Those people exist. The question is whether the rest of the ecosystem will give them the support — and the time — they need.</p>
+<p>The open-source AI movement is at an inflection point. The models are getting genuinely competitive with proprietary alternatives. The tooling is mature enough that a small team can now build and deploy a capable AI system without relying on any of the major cloud providers.</p>
       ]]></content:encoded>
     </item>
 
@@ -132,57 +145,19 @@
       <dc:creator><![CDATA[Tobias Krenn]]></dc:creator>
       <pubDate>Thu, 18 Jun 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://ikcerog.github.io/RSS-Test/articles/creative-work.html</guid>
-      <dc:date>2026-06-18T09:00:00Z</dc:date>
       <category>Culture</category>
       <description><![CDATA[<p>The abundance of tools is real. So is the paralysis. A meditation on making things when everything can be automated.</p>]]></description>
       <content:encoded><![CDATA[
 <p>A friend of mine spent three months writing a short film. She had a script she was proud of, a small budget, and a cast of actors she trusted. What she did not have was the certainty, nagging and persistent, that a sufficiently clever prompt could have produced a similar draft in forty-five seconds.</p>
-
-<p>She finished the film. It is very good. But the experience had changed something for her — not in the work itself, but in the way the work felt while she was doing it. "I kept asking myself," she told me, "what's the point of the struggle if the struggle is optional?"</p>
-
-<p>This is the central psychological crisis of creative work in 2026: not that machines are taking our jobs (though they are taking some), but that they have made the suffering optional. And suffering — or at least, difficulty — has always been part of how we justified the work to ourselves.</p>
-
+<p>She finished the film. It is very good. But the experience had changed something for her — not in the work itself, but in the way the work felt while she was doing it.</p>
 <h2>The Old Bargain</h2>
-
-<p>There was an implicit bargain in the pre-automation era of creative work. You put in time. You developed taste through failure. You learned to distinguish your good ideas from your bad ones through the grueling process of executing both and living with the results. The difficulty was not incidental; it was pedagogical. You learned by doing, and doing was hard.</p>
-
-<p>That bargain is now renegotiable. If you want to write a novel, you can write every scene yourself, or you can draft with AI assistance, or you can use AI to generate a complete first draft that you then revise. All three paths can produce good books. Only one of them involves the particular kind of learning that comes from wrestling with a blank page at two in the morning.</p>
-
-<p>Whether that learning matters depends on what you think creative work is for.</p>
-
-<blockquote><p>"The tool does not care what you make. That is its power and its poverty."</p></blockquote>
-
-<p>If creative work is primarily about the artifact — the film, the novel, the painting — then any tool that helps you produce a better artifact is unambiguously good. The audience does not experience your process; they experience the work. And if AI assistance produces better work, then using it is simply rational.</p>
-
-<p>But most people who make things seriously do not believe that the artifact is the whole point. They believe something happens in the making — something that changes the maker, that clarifies what they think, that develops capacities that cannot be shortcut. The artifact is evidence of a process; the process is the thing.</p>
-
+<p>There was an implicit bargain in the pre-automation era of creative work. You put in time. You developed taste through failure. You learned to distinguish your good ideas from your bad ones through the grueling process of executing both and living with the results.</p>
 <h2>The Paradox of Infinite Possibility</h2>
-
-<p>Here is something that sounds like good news but feels like bad news: we are living in the most creatively abundant moment in human history. The barriers to making and distributing creative work have never been lower. A teenager with a phone can produce music, film, and writing that would have required a studio, a camera crew, and a publishing contract twenty years ago.</p>
-
-<p>And yet creative work feels, to many people, more anxious and uncertain than before. The problem is not access to tools. The problem is the elimination of constraint.</p>
-
-<p>Constraint is generative. When you can only do a few things, you get very good at doing those things. A poet working in a strict form — a sonnet, a villanelle — is not limited by the form; the form is the engine. The resistance creates the shape. Remove all resistance, and you do not get better poems; you get an infinite, undifferentiated stream of possibility that never coalesces into anything in particular.</p>
-
-<p>The most interesting creative response to AI I have seen is not to use it as a generation engine but to use it as a constraint machine. Give it strict parameters — this palette, this structure, these words and no others — and then work within what it produces. The AI does not replace the creative act; it sets the stage for one. The constraint is artificial but no less real for that.</p>
-
+<p>Constraint is generative. When you can only do a few things, you get very good at doing those things. A poet working in a strict form — a sonnet, a villanelle — is not limited by the form; the form is the engine.</p>
 <h2>What Cannot Be Automated</h2>
-
-<p>There is a category of creative work that AI cannot do, not for technical reasons but for conceptual ones. It cannot make work that is about the experience of making it. It cannot document a life from the inside. It cannot produce the particular texture of attention that comes from spending a decade thinking about a single problem. It cannot be changed by what it makes.</p>
-
-<p>This is not nothing. In fact, it is almost everything that we care about when we care about art at its most serious. We read certain writers not because they give us information but because they give us the experience of a particular consciousness moving through the world. We cannot get that from a system that has no consciousness, no world, and no movement.</p>
-
-<p>The question is whether that distinction will matter commercially, culturally, or both. There are reasons to think it will, and reasons to think it will not. The history of photography suggests that a new medium does not eliminate an old one; it redefines it. Painting did not die when photography arrived. It became more painterly. It leaned into what only painting could do.</p>
-
-<p>Creative work in the age of AI may follow a similar path. The work that survives will be the work that is irreducibly human: not because it was made without tools, but because the humanity is the point, and no tool can simulate a point.</p>
-
+<p>There is a category of creative work that AI cannot do, not for technical reasons but for conceptual ones. It cannot make work that is about the experience of making it. It cannot document a life from the inside.</p>
 <h2>Back to the Film</h2>
-
-<p>My friend's film screened last month at a small festival. After the screening, someone in the audience asked her about her process. She described the three months of work — the rewrites, the failed shots, the argument with her cinematographer that turned out to be right, the scene she cut that she still thinks about.</p>
-
-<p>Nobody asked whether she had used AI. The question did not occur to anyone, because the work was so clearly the product of a particular person's particular obsessions, pursued with a particular stubbornness over a particular span of time. The struggle was visible in the work. That visibility was not a flaw.</p>
-
-<p>It was, I think, the whole point.</p>
+<p>My friend’s film screened last month at a small festival. Nobody asked whether she had used AI. The question did not occur to anyone, because the work was so clearly the product of a particular person’s particular obsessions. The struggle was visible in the work. That visibility was not a flaw. It was, I think, the whole point.</p>
       ]]></content:encoded>
     </item>
 
@@ -192,55 +167,18 @@
       <dc:creator><![CDATA[Lena Vasquez]]></dc:creator>
       <pubDate>Wed, 10 Jun 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://ikcerog.github.io/RSS-Test/articles/slow-internet.html</guid>
-      <dc:date>2026-06-10T09:00:00Z</dc:date>
       <category>Ideas</category>
       <description><![CDATA[<p>What we lost when the web became instant, and why some designers are deliberately putting friction back in.</p>]]></description>
       <content:encoded><![CDATA[
 <p>There is a loading screen in a game I played as a child that I remember with a vividness I cannot explain. It was a simple animation — a spaceship moving across a star field, slowly, while a progress bar crept from left to right. It took maybe thirty seconds. I watched it every time, rapt.</p>
-
-<p>I have been thinking about that loading screen a lot lately, in a time when waiting has been almost entirely eliminated from digital life. Pages load before I finish forming the intention to visit them. Music begins before I lift my finger from the button. Search results appear as I type. The friction is gone, and I find I miss it, in ways I am still trying to articulate.</p>
-
 <h2>The Economics of Instant</h2>
-
-<p>The elimination of latency was, for most of internet history, an unambiguous good. Waiting was waste. Users bounced. Conversion rates dropped. Every millisecond of load time had a measurable cost, and so the engineering discipline of performance optimization became one of the most economically important fields in software. Faster was always better.</p>
-
-<p>This logic is not wrong, exactly. It is simply incomplete. It measures one thing — engagement, conversion, retention — and ignores others. It does not measure the quality of attention. It does not measure what happens to the mind when it is never required to wait for anything.</p>
-
-<p>What happens, as it turns out, is something like the erosion of the capacity for patience. Psychologists who study attention have documented, over the past decade, a consistent pattern: people who spend more time in high-speed digital environments show decreasing tolerance for delay and increasing difficulty sustaining focus on slow-developing tasks. The causality is hard to establish precisely, but the correlation is persistent and cross-cultural.</p>
-
-<blockquote><p>"We built the fastest machine in history and then wondered why no one could sit still."<br>— A UX researcher at a major browser company</p></blockquote>
-
-<p>The irony is that speed, pursued without limit, may undermine the very engagement it was meant to produce. A reader who cannot tolerate a two-second page load may also be a reader who cannot sustain attention on a long article. Optimize hard enough for the click and you may destroy the conditions for everything that comes after it.</p>
-
+<p>The elimination of latency was, for most of internet history, an unambiguous good. Waiting was waste. Users bounced. Conversion rates dropped. Every millisecond of load time had a measurable cost.</p>
 <h2>The Friction Designers</h2>
-
-<p>A small but growing community of designers has begun pushing back against the speed imperative, and doing so in a specific way: by deliberately introducing what they call "considered friction." This is distinct from bad UX — from slow loads and confusing interfaces — in that the friction is intentional, purposeful, and legible to the user.</p>
-
-<p>The examples range from charming to profound. One reading app introduces a three-second delay before any article opens, during which a single sentence from the piece is displayed. The delay is long enough to create a moment of anticipation, short enough not to be annoying. User testing showed that articles opened through this mechanism were read to completion at significantly higher rates than those opened instantly.</p>
-
-<p>A note-taking application requires users to type a single sentence about what they want to remember before they can paste in a link. The sentence is discarded. The act of writing it is the point: it forces a moment of active engagement before passive capture.</p>
-
-<p>These are small interventions. But they share a common theory of mind: that the way we arrive at information shapes how we receive it. Instant access produces shallow processing. A moment of intentional delay — even a manufactured one — can change the register in which we engage.</p>
-
+<p>A small but growing community of designers has begun pushing back against the speed imperative by deliberately introducing what they call “considered friction.” This is distinct from bad UX in that the friction is intentional, purposeful, and legible to the user.</p>
 <h2>The Historical Accident of Immediacy</h2>
-
-<p>It is worth remembering that the instant internet is historically unusual. For most of human information history, access to information required significant investment of time and effort. Books had to be copied, then printed, then transported, then found in libraries, then read — a process that took months or years from creation to consumption. Even the early commercial internet, with its dial-up connections and one-page-per-minute loading speeds, created natural moments of pause.</p>
-
-<p>Those moments were not merely incidental delays. They were part of the experience of information. You had time, while the modem connected or the page loaded, to prepare yourself for what you were about to read — to remember why you had sought it, to arrive in something like a reading state rather than a consuming state.</p>
-
-<p>The distinction between reading and consuming is one I find useful. Consuming is passive, fast, and undiscriminating. Reading is active, slower, and necessarily selective. The slow internet forced something closer to reading. The fast internet makes consuming the path of least resistance.</p>
-
+<p>It is worth remembering that the instant internet is historically unusual. For most of human information history, access to information required significant investment of time and effort.</p>
 <h2>The Case Against Nostalgia</h2>
-
-<p>I want to be careful here not to romanticize a past that was also characterized by real limitations. The slow internet excluded people who could not afford fast connections. It privileged patience as a virtue in a way that disproportionately benefited those with leisure time. Access to information was unevenly distributed in ways that the fast internet has, in many respects, genuinely improved.</p>
-
-<p>The case for considered friction is not a case for returning to dial-up. It is a case for being deliberate about what we optimize for, and recognizing that speed is one value among several, not a terminal goal in itself. A world in which every surface is frictionless is not obviously better than one in which some surfaces invite a moment's pause.</p>
-
-<p>The designers experimenting with intentional friction are not trying to make the internet slower. They are trying to make it more like a good book: something that you enter rather than consume, something that has a pace that is part of the experience, something that requires and rewards sustained attention.</p>
-
-<p>That is a reasonable thing to want. It is also, at the moment, genuinely countercultural — which may be why it feels so radical when it works.</p>
-
-<p>I still think about that loading screen. I think I was learning something, watching it: that good things were worth waiting for, that anticipation was itself a kind of pleasure, that the space between wanting and having was not empty. Those are not lessons the instant internet teaches. Perhaps it is time to teach them again.</p>
+<p>The case for considered friction is not a case for returning to dial-up. It is a case for being deliberate about what we optimize for, and recognizing that speed is one value among several, not a terminal goal in itself.</p>
       ]]></content:encoded>
     </item>
 
