@@ -15,8 +15,8 @@
     <copyright>Copyright 2026 The Signal. All rights reserved.</copyright>
     <managingEditor>editors@thesignal.example (The Signal Editorial Team)</managingEditor>
     <webMaster>webmaster@thesignal.example (The Signal Web Team)</webMaster>
-    <pubDate>Wed, 25 Jun 2026 09:00:00 +0000</pubDate>
-    <lastBuildDate>Wed, 25 Jun 2026 09:00:00 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 09:00:00 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 09:00:00 +0000</lastBuildDate>
     <category>Technology</category>
     <category>Culture</category>
     <category>Ideas</category>
@@ -34,6 +34,45 @@
     <atom:link href="https://ikcerog.github.io/RSS-Test/feed.xml" rel="self" type="application/rss+xml"/>
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
+
+    <item>
+      <title>Lorem Ipsum Dolor Sit Amet</title>
+      <link>https://ikcerog.github.io/RSS-Test/articles/lorem-ipsum.html</link>
+      <dc:creator><![CDATA[Marcus Teller]]></dc:creator>
+      <pubDate>Mon, 29 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://ikcerog.github.io/RSS-Test/articles/lorem-ipsum.html</guid>
+      <dc:date>2026-06-29T09:00:00Z</dc:date>
+      <category>Analysis</category>
+      <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus euismod, erat vitae placerat faucibus.</p>]]></description>
+      <content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus euismod, erat vitae placerat faucibus, turpis mauris suscipit augue, vitae luctus nibh velit sed lacus. Integer volutpat, augue vel convallis luctus, urna nibh facilisis ipsum, eget interdum arcu erat vitae nunc.</p>
+
+<p>Praesent malesuada, nibh vitae volutpat tincidunt, lorem augue gravida lacus, sed vulputate risus turpis vitae velit. Curabitur dictum, eros nec fermentum pretium, lorem massa malesuada sem, vitae ultrices est purus eget risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+
+<table>
+  <caption>Lorem Ipsum Dolor Sit Amet Consectetur Adipiscing Elit</caption>
+  <thead>
+    <tr>
+      <th>Lorem</th>
+      <th>Lorem Ipsum</th>
+      <th>Lorem Ipsum Dolor Sit Amet</th>
+      <th>Lorem Ipsum Dolor Sit Amet Consectetur</th>
+      <th>Lorem Ipsum Dolor Sit Amet Consectetur Adipiscing</th>
+      <th>Lorem Ipsum Dolor Sit</th>
+      <th>Lorem Ipsum Dolor Amet</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>Lorem City</td><td>4.2</td><td>&#163;A9X-7Q2</td><td>5.6%</td><td>&#163;QW-83ZX</td><td>&#163;LM9P-22</td></tr>
+    <tr><td>2</td><td>Ipsum Heights</td><td>5.8</td><td>&#163;F4K-91MN</td><td>6.8%</td><td>&#163;RT6-PL4</td><td>&#163;VX-820QA</td></tr>
+    <tr><td>3</td><td>Dolor Beach</td><td>6.4</td><td>&#163;N7Y-3D8K</td><td>8.1%</td><td>&#163;CB-17LM</td><td>&#163;P5Q-44ZT</td></tr>
+    <tr><td>4</td><td>Sit Valley</td><td>8.9</td><td>&#163;H2W-6XR9</td><td>10.0%</td><td>&#163;ZT-09JK</td><td>&#163;D8F-71QP</td></tr>
+    <tr><td>5</td><td>Amet Grove</td><td>12.7</td><td>&#163;R8M-25NV</td><td>15.5%</td><td>&#163;YU-48BG</td><td>&#163;K3L-90WC</td></tr>
+    <tr><td>6</td><td>Consectetur</td><td>18.3</td><td>&#163;T5P-84HJ</td><td>20.0%</td><td>&#163;MN-62QR</td><td>&#163;X7C-15DL</td></tr>
+  </tbody>
+</table>
+      ]]></content:encoded>
+    </item>
 
     <item>
       <title>The Quiet Power of Open-Source AI</title>
@@ -55,9 +94,7 @@
 
 <p>That ecosystem did not produce GPT-4. It produced something different: hundreds of small, purposeful models, each solving a specific problem for a specific community. A model trained to assist doctors in rural clinics where internet connectivity is unreliable. A model fine-tuned on parliamentary proceedings to help civic technologists. A model that runs on a Raspberry Pi and helps students in areas where cloud services are blocked.</p>
 
-<blockquote>
-<p>"The biggest labs are optimizing for the benchmark. We are optimizing for the use case. Those are not the same thing."<br>— A contributor to the EleutherAI project</p>
-</blockquote>
+<blockquote><p>"The biggest labs are optimizing for the benchmark. We are optimizing for the use case. Those are not the same thing."<br>— A contributor to the EleutherAI project</p></blockquote>
 
 <p>This distinction matters more than it might initially appear. Benchmarks measure generalist capability. Use cases demand specificity, trust, and context. A general-purpose model that scores 90% on a medical reasoning benchmark may still be useless — or dangerous — in a clinical setting if it cannot be audited, if its training data cannot be disclosed, or if it requires a cloud connection that a hospital's security policy prohibits.</p>
 
