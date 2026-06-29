@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Quiet Power of Open-Source AI — The Signal</title>
+  <meta name="description" content="While the headlines fixate on billion-dollar labs, a decentralized community is building tools that may matter more in the long run." />
+  <meta name="author" content="Maya Osei" />
+  <meta property="og:title" content="The Quiet Power of Open-Source AI" />
+  <meta property="og:description" content="While the headlines fixate on billion-dollar labs, a decentralized community is building tools that may matter more in the long run." />
+  <meta property="og:type" content="article" />
+  <meta property="article:published_time" content="2026-06-25T09:00:00Z" />
+  <meta property="article:author" content="Maya Osei" />
+  <link rel="alternate" type="application/rss+xml" title="The Signal RSS Feed" href="/feed.xml" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: Georgia, 'Times New Roman', serif; background: #fafaf8; color: #1a1a1a; line-height: 1.75; }
+    header { border-bottom: 3px solid #1a1a1a; padding: 1.25rem 0; text-align: center; background: #fff; }
+    header h1 { font-size: 2rem; font-weight: 900; }
+    header h1 a { color: #1a1a1a; text-decoration: none; }
+    nav { background: #1a1a1a; color: #fff; text-align: center; padding: 0.6rem; font-family: system-ui, sans-serif; font-size: 0.85rem; letter-spacing: 0.08em; text-transform: uppercase; }
+    nav a { color: #ccc; text-decoration: none; margin: 0 1rem; }
+    nav a:hover { color: #fff; }
+    article { max-width: 700px; margin: 3rem auto; padding: 0 1.5rem; }
+    .article-header { margin-bottom: 2rem; border-bottom: 1px solid #ddd; padding-bottom: 1.5rem; }
+    .article-meta { font-family: system-ui, sans-serif; font-size: 0.78rem; color: #888; text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 0.75rem; }
+    .article-meta .category { color: #f26522; font-weight: 700; margin-right: 0.75rem; }
+    h1.article-title { font-size: 2.4rem; line-height: 1.2; margin-bottom: 0.75rem; }
+    .article-deck { font-size: 1.15rem; color: #444; font-style: italic; }
+    .article-byline { font-family: system-ui, sans-serif; font-size: 0.88rem; margin-top: 1rem; color: #555; }
+    .article-body p { margin-bottom: 1.4rem; font-size: 1.05rem; }
+    .article-body h2 { font-size: 1.4rem; margin: 2rem 0 0.75rem; }
+    .article-body blockquote { border-left: 3px solid #f26522; padding-left: 1.25rem; margin: 1.5rem 0; color: #444; font-style: italic; }
+    footer { text-align: center; padding: 2.5rem 1rem; font-family: system-ui, sans-serif; font-size: 0.82rem; color: #888; border-top: 1px solid #ddd; margin-top: 3rem; }
+    footer a { color: #f26522; text-decoration: none; }
+    .back-link { font-family: system-ui, sans-serif; font-size: 0.85rem; color: #f26522; text-decoration: none; display: inline-block; margin-bottom: 2rem; }
+    .back-link:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1><a href="/">The Signal</a></h1>
+</header>
+
+<nav>
+  <a href="/">Home</a>
+  <a href="/feed.xml">RSS Feed</a>
+</nav>
+
+<article>
+  <a class="back-link" href="/">&larr; Back to home</a>
+
+  <header class="article-header">
+    <div class="article-meta">
+      <span class="category">Technology</span>
+      <time datetime="2026-06-25">June 25, 2026</time>
+    </div>
+    <h1 class="article-title">The Quiet Power of Open-Source AI</h1>
+    <p class="article-deck">While the headlines fixate on billion-dollar labs, a decentralized community is building tools that may matter more in the long run.</p>
+    <p class="article-byline">By <strong>Maya Osei</strong> &mdash; 8 min read</p>
+  </header>
+
+  <div class="article-body">
+
+    <p>Every week brings a new announcement from one of the major AI laboratories — a model that writes code better than most engineers, a system that passes bar exams, a multimodal architecture that can reason about images with uncanny precision. The press coverage is relentless. The funding rounds are staggering. And yet, quietly, something else is happening.</p>
+
+    <p>In repositories across GitHub, in Discord servers that never make the news, in research papers published without a PR firm attached, a different kind of AI development is taking place. It is slower, messier, and more distributed. It is also, in some ways, more interesting.</p>
+
+    <h2>The Release That Changed the Conversation</h2>
+
+    <p>When Meta released the weights of LLaMA in early 2023, the effect was immediate and irreversible. Within days, the model was running on laptops. Within weeks, researchers had fine-tuned it on specialized datasets — medical records, legal documents, codebases — that the major labs would never prioritize. Within months, a whole ecosystem had formed around it.</p>
+
+    <p>That ecosystem did not produce GPT-4. It produced something different: hundreds of small, purposeful models, each solving a specific problem for a specific community. A model trained to assist doctors in rural clinics where internet connectivity is unreliable. A model fine-tuned on parliamentary proceedings to help civic technologists. A model that runs on a Raspberry Pi and helps students in areas where cloud services are blocked.</p>
+
+    <blockquote>
+      "The biggest labs are optimizing for the benchmark. We are optimizing for the use case. Those are not the same thing."
+      <br>— A contributor to the EleutherAI project
+    </blockquote>
+
+    <p>This distinction matters more than it might initially appear. Benchmarks measure generalist capability. Use cases demand specificity, trust, and context. A general-purpose model that scores 90% on a medical reasoning benchmark may still be useless — or dangerous — in a clinical setting if it cannot be audited, if its training data cannot be disclosed, or if it requires a cloud connection that a hospital's security policy prohibits.</p>
+
+    <h2>Infrastructure That Belongs to Everyone</h2>
+
+    <p>Beyond models, the open-source AI community has built infrastructure that is genuinely impressive. The Hugging Face Hub has become the repository of record for model weights, datasets, and evaluation suites. Frameworks like vLLM, llama.cpp, and Ollama have made it trivially easy to run large models on consumer hardware. Tools like LangChain and LlamaIndex — whatever you think of their design choices — accelerated the experimentation that now underpins entire startup categories.</p>
+
+    <p>None of this happened because a foundation wrote a grant. It happened because engineers and researchers found the existing tools inadequate and built better ones, then shared them. The incentive structure is familiar from the earlier history of open source: reputation, collaboration, and the genuine pleasure of solving hard problems in public.</p>
+
+    <p>What is different now is the stakes. When Linux was being built in Linus Torvalds' bedroom, the worst that could happen was a bad operating system. The systems being built today can generate text that influences elections, automate hiring decisions, and accelerate drug discovery. The norms that open-source AI develops around safety, auditability, and responsible release will echo for decades.</p>
+
+    <h2>The Accountability Question</h2>
+
+    <p>Critics of open-source AI raise a legitimate concern: releasing model weights eliminates the ability to control downstream use. Once the weights are public, there is no API to shut down, no terms of service to enforce, no kill switch. If a bad actor fine-tunes an open model to generate disinformation or assist in creating dangerous materials, the original developers have limited recourse.</p>
+
+    <p>This is a real tension, and the community has not fully resolved it. What has emerged, tentatively, is a set of norms rather than rules: voluntary adoption of responsible release guidelines, model cards that document known limitations and misuse vectors, and an increasing emphasis on "open weights" models — where the weights are public but the training data and fine-tuning details may not be — as a middle path.</p>
+
+    <p>It is not a clean solution. But it may be a more honest one than the alternative, which is to trust that a handful of private companies will make these decisions correctly on behalf of everyone. The history of technology does not give us strong reasons to assume that concentrated power produces better outcomes than distributed accountability.</p>
+
+    <h2>What Comes Next</h2>
+
+    <p>The open-source AI movement is at an inflection point. The models are getting genuinely competitive with proprietary alternatives. The tooling is mature enough that a small team can now build and deploy a capable AI system without relying on any of the major cloud providers. The community is large enough to sustain serious safety research alongside capability research.</p>
+
+    <p>What it lacks, still, is a clear story about governance. The Apache Foundation and Linux Foundation spent decades developing models for sustaining open infrastructure. AI needs equivalent institutions — ones that can handle the specific challenges of model governance, dataset curation, and safety evaluation without becoming captured by the commercial interests that inevitably circle valuable technology.</p>
+
+    <p>Building those institutions is harder than training a model. It requires negotiation, compromise, and patience. It requires people who are willing to work on the boring, essential work of governance rather than chasing the benchmark or the headline.</p>
+
+    <p>Those people exist. The question is whether the rest of the ecosystem will give them the support — and the time — they need.</p>
+
+  </div>
+</article>
+
+<footer>
+  <p>&copy; 2026 The Signal &mdash; <a href="/feed.xml">RSS Feed</a> &mdash; <a href="/">Home</a></p>
+</footer>
+
+</body>
+</html>

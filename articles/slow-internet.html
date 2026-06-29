@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>In Defense of the Slow Internet — The Signal</title>
+  <meta name="description" content="What we lost when the web became instant, and why some designers are deliberately putting friction back in." />
+  <meta name="author" content="Lena Vasquez" />
+  <meta property="og:title" content="In Defense of the Slow Internet" />
+  <meta property="og:description" content="What we lost when the web became instant, and why some designers are deliberately putting friction back in." />
+  <meta property="og:type" content="article" />
+  <meta property="article:published_time" content="2026-06-10T09:00:00Z" />
+  <meta property="article:author" content="Lena Vasquez" />
+  <link rel="alternate" type="application/rss+xml" title="The Signal RSS Feed" href="/feed.xml" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: Georgia, 'Times New Roman', serif; background: #fafaf8; color: #1a1a1a; line-height: 1.75; }
+    header { border-bottom: 3px solid #1a1a1a; padding: 1.25rem 0; text-align: center; background: #fff; }
+    header h1 { font-size: 2rem; font-weight: 900; }
+    header h1 a { color: #1a1a1a; text-decoration: none; }
+    nav { background: #1a1a1a; color: #fff; text-align: center; padding: 0.6rem; font-family: system-ui, sans-serif; font-size: 0.85rem; letter-spacing: 0.08em; text-transform: uppercase; }
+    nav a { color: #ccc; text-decoration: none; margin: 0 1rem; }
+    nav a:hover { color: #fff; }
+    article { max-width: 700px; margin: 3rem auto; padding: 0 1.5rem; }
+    .article-header { margin-bottom: 2rem; border-bottom: 1px solid #ddd; padding-bottom: 1.5rem; }
+    .article-meta { font-family: system-ui, sans-serif; font-size: 0.78rem; color: #888; text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 0.75rem; }
+    .article-meta .category { color: #f26522; font-weight: 700; margin-right: 0.75rem; }
+    h1.article-title { font-size: 2.4rem; line-height: 1.2; margin-bottom: 0.75rem; }
+    .article-deck { font-size: 1.15rem; color: #444; font-style: italic; }
+    .article-byline { font-family: system-ui, sans-serif; font-size: 0.88rem; margin-top: 1rem; color: #555; }
+    .article-body p { margin-bottom: 1.4rem; font-size: 1.05rem; }
+    .article-body h2 { font-size: 1.4rem; margin: 2rem 0 0.75rem; }
+    .article-body blockquote { border-left: 3px solid #f26522; padding-left: 1.25rem; margin: 1.5rem 0; color: #444; font-style: italic; }
+    footer { text-align: center; padding: 2.5rem 1rem; font-family: system-ui, sans-serif; font-size: 0.82rem; color: #888; border-top: 1px solid #ddd; margin-top: 3rem; }
+    footer a { color: #f26522; text-decoration: none; }
+    .back-link { font-family: system-ui, sans-serif; font-size: 0.85rem; color: #f26522; text-decoration: none; display: inline-block; margin-bottom: 2rem; }
+    .back-link:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1><a href="/">The Signal</a></h1>
+</header>
+
+<nav>
+  <a href="/">Home</a>
+  <a href="/feed.xml">RSS Feed</a>
+</nav>
+
+<article>
+  <a class="back-link" href="/">&larr; Back to home</a>
+
+  <header class="article-header">
+    <div class="article-meta">
+      <span class="category">Ideas</span>
+      <time datetime="2026-06-10">June 10, 2026</time>
+    </div>
+    <h1 class="article-title">In Defense of the Slow Internet</h1>
+    <p class="article-deck">What we lost when the web became instant, and why some designers are deliberately putting friction back in.</p>
+    <p class="article-byline">By <strong>Lena Vasquez</strong> &mdash; 6 min read</p>
+  </header>
+
+  <div class="article-body">
+
+    <p>There is a loading screen in a game I played as a child that I remember with a vividness I cannot explain. It was a simple animation — a spaceship moving across a star field, slowly, while a progress bar crept from left to right. It took maybe thirty seconds. I watched it every time, rapt.</p>
+
+    <p>I have been thinking about that loading screen a lot lately, in a time when waiting has been almost entirely eliminated from digital life. Pages load before I finish forming the intention to visit them. Music begins before I lift my finger from the button. Search results appear as I type. The friction is gone, and I find I miss it, in ways I am still trying to articulate.</p>
+
+    <h2>The Economics of Instant</h2>
+
+    <p>The elimination of latency was, for most of internet history, an unambiguous good. Waiting was waste. Users bounced. Conversion rates dropped. Every millisecond of load time had a measurable cost, and so the engineering discipline of performance optimization became one of the most economically important fields in software. Faster was always better.</p>
+
+    <p>This logic is not wrong, exactly. It is simply incomplete. It measures one thing — engagement, conversion, retention — and ignores others. It does not measure the quality of attention. It does not measure what happens to the mind when it is never required to wait for anything.</p>
+
+    <p>What happens, as it turns out, is something like the erosion of the capacity for patience. Psychologists who study attention have documented, over the past decade, a consistent pattern: people who spend more time in high-speed digital environments show decreasing tolerance for delay and increasing difficulty sustaining focus on slow-developing tasks. The causality is hard to establish precisely, but the correlation is persistent and cross-cultural.</p>
+
+    <blockquote>
+      "We built the fastest machine in history and then wondered why no one could sit still."
+      <br>— A UX researcher at a major browser company
+    </blockquote>
+
+    <p>The irony is that speed, pursued without limit, may undermine the very engagement it was meant to produce. A reader who cannot tolerate a two-second page load may also be a reader who cannot sustain attention on a long article. Optimize hard enough for the click and you may destroy the conditions for everything that comes after it.</p>
+
+    <h2>The Friction Designers</h2>
+
+    <p>A small but growing community of designers has begun pushing back against the speed imperative, and doing so in a specific way: by deliberately introducing what they call "considered friction." This is distinct from bad UX — from slow loads and confusing interfaces — in that the friction is intentional, purposeful, and legible to the user.</p>
+
+    <p>The examples range from charming to profound. One reading app introduces a three-second delay before any article opens, during which a single sentence from the piece is displayed. The delay is long enough to create a moment of anticipation, short enough not to be annoying. User testing showed that articles opened through this mechanism were read to completion at significantly higher rates than those opened instantly.</p>
+
+    <p>A note-taking application requires users to type a single sentence about what they want to remember before they can paste in a link. The sentence is discarded. The act of writing it is the point: it forces a moment of active engagement before passive capture.</p>
+
+    <p>These are small interventions. But they share a common theory of mind: that the way we arrive at information shapes how we receive it. Instant access produces shallow processing. A moment of intentional delay — even a manufactured one — can change the register in which we engage.</p>
+
+    <h2>The Historical Accident of Immediacy</h2>
+
+    <p>It is worth remembering that the instant internet is historically unusual. For most of human information history, access to information required significant investment of time and effort. Books had to be copied, then printed, then transported, then found in libraries, then read — a process that took months or years from creation to consumption. Even the early commercial internet, with its dial-up connections and one-page-per-minute loading speeds, created natural moments of pause.</p>
+
+    <p>Those moments were not merely incidental delays. They were part of the experience of information. You had time, while the modem connected or the page loaded, to prepare yourself for what you were about to read — to remember why you had sought it, to arrive in something like a reading state rather than a consuming state.</p>
+
+    <p>The distinction between reading and consuming is one I find useful. Consuming is passive, fast, and undiscriminating. Reading is active, slower, and necessarily selective. The slow internet forced something closer to reading. The fast internet makes consuming the path of least resistance.</p>
+
+    <h2>The Case Against Nostalgia</h2>
+
+    <p>I want to be careful here not to romanticize a past that was also characterized by real limitations. The slow internet excluded people who could not afford fast connections. It privileged patience as a virtue in a way that disproportionately benefited those with leisure time. Access to information was unevenly distributed in ways that the fast internet has, in many respects, genuinely improved.</p>
+
+    <p>The case for considered friction is not a case for returning to dial-up. It is a case for being deliberate about what we optimize for, and recognizing that speed is one value among several, not a terminal goal in itself. A world in which every surface is frictionless is not obviously better than one in which some surfaces invite a moment's pause.</p>
+
+    <p>The designers experimenting with intentional friction are not trying to make the internet slower. They are trying to make it more like a good book: something that you enter rather than consume, something that has a pace that is part of the experience, something that requires and rewards sustained attention.</p>
+
+    <p>That is a reasonable thing to want. It is also, at the moment, genuinely countercultural — which may be why it feels so radical when it works.</p>
+
+    <p>I still think about that loading screen. I think I was learning something, watching it: that good things were worth waiting for, that anticipation was itself a kind of pleasure, that the space between wanting and having was not empty. Those are not lessons the instant internet teaches. Perhaps it is time to teach them again.</p>
+
+  </div>
+</article>
+
+<footer>
+  <p>&copy; 2026 The Signal &mdash; <a href="/feed.xml">RSS Feed</a> &mdash; <a href="/">Home</a></p>
+</footer>
+
+</body>
+</html>
