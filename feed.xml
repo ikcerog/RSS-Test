@@ -15,8 +15,8 @@
     <copyright>Copyright 2026 The Signal. All rights reserved.</copyright>
     <managingEditor>editors@thesignal.example (The Signal Editorial Team)</managingEditor>
     <webMaster>webmaster@thesignal.example (The Signal Web Team)</webMaster>
-    <pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2026 09:00:00 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 09:00:00 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 09:00:00 +0000</lastBuildDate>
     <category>Technology</category>
     <category>Culture</category>
     <category>Ideas</category>
@@ -34,6 +34,72 @@
     <atom:link href="https://ikcerog.github.io/RSS-Test/feed.xml" rel="self" type="application/rss+xml"/>
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
+
+    <item>
+      <title>Adipiscing Elit Sed Do Eiusmod Tempor</title>
+      <link>https://ikcerog.github.io/RSS-Test/articles/lorem-ipsum-3.html</link>
+      <dc:creator><![CDATA[Elena Voss]]></dc:creator>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://ikcerog.github.io/RSS-Test/articles/lorem-ipsum-3.html</guid>
+      <category>Analysis</category>
+      <description><![CDATA[<p>Adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></description>
+      <content:encoded><![CDATA[
+<div class="rocket-data-table-wrap" style="width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 1.25em 0;" role="region" aria-label="Eiusmod Tempor Table">
+<table class="rocket-data-table" style="width: 100%; border-collapse: collapse; border-spacing: 0; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.35; color: #111; background: #fff;">
+<caption style="caption-side: top; text-align: left; font-weight: bold; margin: 0 0 .5em; color: #111;">Adipiscing Elit Sed Do Eiusmod Tempor</caption>
+<thead>
+<tr>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Rank</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Location</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Eiusmod Tempor Index</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Incididunt Reference</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Labore Growth Rate</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Dolore Market Code</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Magna Asset Tag</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">1</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Neque Point</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">3.7</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;B5M-2WK</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">4.3%</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;PX-61NV</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;KT3J-88</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">2</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Eiusmod Grove</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">7.1</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;G8R-45DP</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">7.9%</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;WQ-27CX</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;MZ5L-13</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">3</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Tempor Falls</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">9.3</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;J3T-77FK</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">11.2%</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;YB-54RM</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;SR9N-06</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">4</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Labore Ridge</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">2.5</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;C6V-19PW</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">3.6%</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;DH-38QT</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;FU7K-59</td>
+</tr>
+</tbody>
+</table>
+</div>
+      ]]></content:encoded>
+    </item>
 
     <item>
       <title>Lorem Ipsum Dolor Sit Amet Consectetur</title>
@@ -157,7 +223,7 @@
 <h2>What Cannot Be Automated</h2>
 <p>There is a category of creative work that AI cannot do, not for technical reasons but for conceptual ones. It cannot make work that is about the experience of making it. It cannot document a life from the inside.</p>
 <h2>Back to the Film</h2>
-<p>My friend’s film screened last month at a small festival. Nobody asked whether she had used AI. The question did not occur to anyone, because the work was so clearly the product of a particular person’s particular obsessions. The struggle was visible in the work. That visibility was not a flaw. It was, I think, the whole point.</p>
+<p>My friend's film screened last month at a small festival. Nobody asked whether she had used AI. The question did not occur to anyone, because the work was so clearly the product of a particular person's particular obsessions. The struggle was visible in the work. That visibility was not a flaw. It was, I think, the whole point.</p>
       ]]></content:encoded>
     </item>
 
