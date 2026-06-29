@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/feed.xsl"?>
+<?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -9,7 +9,7 @@
 >
   <channel>
     <title>The Signal</title>
-    <link>https://ikcerog.github.io/rss-test</link>
+    <link>https://ikcerog.github.io/RSS-Test</link>
     <description>Thoughtful writing on technology, culture, and ideas that matter.</description>
     <language>en-us</language>
     <copyright>Copyright 2026 The Signal. All rights reserved.</copyright>
@@ -24,23 +24,23 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <ttl>60</ttl>
     <image>
-      <url>https://ikcerog.github.io/rss-test/logo.png</url>
+      <url>https://ikcerog.github.io/RSS-Test/logo.png</url>
       <title>The Signal</title>
-      <link>https://ikcerog.github.io/rss-test</link>
+      <link>https://ikcerog.github.io/RSS-Test</link>
       <width>144</width>
       <height>144</height>
       <description>The Signal publication logo</description>
     </image>
-    <atom:link href="https://ikcerog.github.io/rss-test/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://ikcerog.github.io/RSS-Test/feed.xml" rel="self" type="application/rss+xml"/>
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
     <item>
       <title>The Quiet Power of Open-Source AI</title>
-      <link>https://ikcerog.github.io/rss-test/articles/open-source-ai.html</link>
+      <link>https://ikcerog.github.io/RSS-Test/articles/open-source-ai.html</link>
       <dc:creator><![CDATA[Maya Osei]]></dc:creator>
       <pubDate>Thu, 25 Jun 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://ikcerog.github.io/rss-test/articles/open-source-ai.html</guid>
+      <guid isPermaLink="false">https://ikcerog.github.io/RSS-Test/articles/open-source-ai.html</guid>
       <dc:date>2026-06-25T09:00:00Z</dc:date>
       <category>Technology</category>
       <description><![CDATA[<p>While the headlines fixate on billion-dollar labs, a decentralized community is building tools that may matter more in the long run.</p>]]></description>
@@ -91,10 +91,10 @@
 
     <item>
       <title>Why Creative Work Has Never Been Harder (or More Possible)</title>
-      <link>https://ikcerog.github.io/rss-test/articles/creative-work.html</link>
+      <link>https://ikcerog.github.io/RSS-Test/articles/creative-work.html</link>
       <dc:creator><![CDATA[Tobias Krenn]]></dc:creator>
       <pubDate>Thu, 18 Jun 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://ikcerog.github.io/rss-test/articles/creative-work.html</guid>
+      <guid isPermaLink="false">https://ikcerog.github.io/RSS-Test/articles/creative-work.html</guid>
       <dc:date>2026-06-18T09:00:00Z</dc:date>
       <category>Culture</category>
       <description><![CDATA[<p>The abundance of tools is real. So is the paralysis. A meditation on making things when everything can be automated.</p>]]></description>
@@ -151,10 +151,10 @@
 
     <item>
       <title>In Defense of the Slow Internet</title>
-      <link>https://ikcerog.github.io/rss-test/articles/slow-internet.html</link>
+      <link>https://ikcerog.github.io/RSS-Test/articles/slow-internet.html</link>
       <dc:creator><![CDATA[Lena Vasquez]]></dc:creator>
       <pubDate>Wed, 10 Jun 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://ikcerog.github.io/rss-test/articles/slow-internet.html</guid>
+      <guid isPermaLink="false">https://ikcerog.github.io/RSS-Test/articles/slow-internet.html</guid>
       <dc:date>2026-06-10T09:00:00Z</dc:date>
       <category>Ideas</category>
       <description><![CDATA[<p>What we lost when the web became instant, and why some designers are deliberately putting friction back in.</p>]]></description>
