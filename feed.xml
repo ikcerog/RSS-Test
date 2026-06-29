@@ -15,8 +15,8 @@
     <copyright>Copyright 2026 The Signal. All rights reserved.</copyright>
     <managingEditor>editors@thesignal.example (The Signal Editorial Team)</managingEditor>
     <webMaster>webmaster@thesignal.example (The Signal Web Team)</webMaster>
-    <pubDate>Wed, 01 Jul 2026 09:00:00 +0000</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2026 09:00:00 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 09:00:00 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 09:00:00 +0000</lastBuildDate>
     <category>Technology</category>
     <category>Culture</category>
     <category>Ideas</category>
@@ -34,6 +34,149 @@
     <atom:link href="https://ikcerog.github.io/RSS-Test/feed.xml" rel="self" type="application/rss+xml"/>
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
+
+    <item>
+      <title>Duis Aute Irure Dolor In Reprehenderit</title>
+      <link>https://ikcerog.github.io/RSS-Test/articles/lorem-ipsum-5.html</link>
+      <dc:creator><![CDATA[James Okafor]]></dc:creator>
+      <pubDate>Fri, 03 Jul 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://ikcerog.github.io/RSS-Test/articles/lorem-ipsum-5.html</guid>
+      <category>Analysis</category>
+      <description><![CDATA[<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>]]></description>
+      <content:encoded><![CDATA[
+<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+<h2>Voluptate Velit</h2>
+<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet consectetur adipisci velit.</p>
+<div class="rocket-data-table-wrap" style="width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 1.25em 0;" role="region" aria-label="Irure Dolor Table">
+<table class="rocket-data-table" style="width: 100%; border-collapse: collapse; border-spacing: 0; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.35; color: #111; background: #fff;">
+<caption style="caption-side: top; text-align: left; font-weight: bold; margin: 0 0 .5em; color: #111;">Duis Aute Irure Dolor In Reprehenderit</caption>
+<thead>
+<tr>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Rank</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Region</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Irure Index</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Cillum Code</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Fugiat Rate</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Pariatur Ref</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">1</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Voluptate Peak</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">5.4</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;X4L-9BM</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">6.7%</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;QN-52WT</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">2</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Cillum Downs</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">8.1</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;A6R-0KJ</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">13.5%</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;VH-84ZP</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">3</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Fugiat Crossing</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">2.9</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;E1S-67DC</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">3.2%</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;JF-19GL</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">4</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Nulla Pariatur</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">6.8</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;P3Y-22HQ</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">10.0%</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;UC-47MX</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">5</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Excepteur Bend</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">4.3</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;Z8W-40FN</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">7.8%</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;BT-63RV</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Excepteur Sint</h2>
+<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
+      ]]></content:encoded>
+    </item>
+
+    <item>
+      <title>Ut Enim Ad Minim Veniam Quis Nostrud</title>
+      <link>https://ikcerog.github.io/RSS-Test/articles/lorem-ipsum-4.html</link>
+      <dc:creator><![CDATA[Priya Sharma]]></dc:creator>
+      <pubDate>Thu, 02 Jul 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://ikcerog.github.io/RSS-Test/articles/lorem-ipsum-4.html</guid>
+      <category>Analysis</category>
+      <description><![CDATA[<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>]]></description>
+      <content:encoded><![CDATA[
+<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>Nostrud Exercitation</h2>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+<div class="rocket-data-table-wrap" style="width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 1.25em 0;" role="region" aria-label="Veniam Nostrud Table">
+<table class="rocket-data-table" style="width: 100%; border-collapse: collapse; border-spacing: 0; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.35; color: #111; background: #fff;">
+<caption style="caption-side: top; text-align: left; font-weight: bold; margin: 0 0 .5em; color: #111;">Ut Enim Ad Minim Veniam Quis Nostrud</caption>
+<thead>
+<tr>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Rank</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">District</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Veniam Score</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Ullamco Ref</th>
+<th style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: bottom; font-weight: bold; background: #fff; color: #111;" scope="col">Aliquip Rate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">1</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Veniam Harbour</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">6.2</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;T7N-4QZ</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">9.1%</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">2</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Nostrud Crest</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">4.8</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;R2K-88VB</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">5.4%</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">3</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Exercitation Bluff</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">8.5</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;M5P-31CX</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">12.7%</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">4</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Ullamco Bay</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">3.1</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;W9J-56NR</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">2.9%</td>
+</tr>
+<tr>
+<td style="border: 1px solid #111; padding: 8px; text-align: center; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">5</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: left; vertical-align: top; background: #fff; color: #111;">Aliquip Flat</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">7.6</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">&#163;F0D-73YK</td>
+<td style="border: 1px solid #111; padding: 8px; text-align: right; vertical-align: top; background: #fff; color: #111; white-space: nowrap;">8.3%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Laboris Nisi</h2>
+<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</p>
+<p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint.</p>
+      ]]></content:encoded>
+    </item>
 
     <item>
       <title>Adipiscing Elit Sed Do Eiusmod Tempor</title>
@@ -240,7 +383,7 @@
 <h2>The Economics of Instant</h2>
 <p>The elimination of latency was, for most of internet history, an unambiguous good. Waiting was waste. Users bounced. Conversion rates dropped. Every millisecond of load time had a measurable cost.</p>
 <h2>The Friction Designers</h2>
-<p>A small but growing community of designers has begun pushing back against the speed imperative by deliberately introducing what they call “considered friction.” This is distinct from bad UX in that the friction is intentional, purposeful, and legible to the user.</p>
+<p>A small but growing community of designers has begun pushing back against the speed imperative by deliberately introducing what they call "considered friction." This is distinct from bad UX in that the friction is intentional, purposeful, and legible to the user.</p>
 <h2>The Historical Accident of Immediacy</h2>
 <p>It is worth remembering that the instant internet is historically unusual. For most of human information history, access to information required significant investment of time and effort.</p>
 <h2>The Case Against Nostalgia</h2>
